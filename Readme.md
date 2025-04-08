@@ -36,6 +36,7 @@
 # 🚀 How It Works
   Step-by-Step Process:
   Load Dataset: Accepts any CSV dataset as input.
+  Run using autolysis.py
 
 # Analyze:
 
