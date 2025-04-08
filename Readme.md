@@ -97,10 +97,10 @@
 
   Integration with more language models (Claude, Gemini, etc.)
 
-👨‍💻 Author
-Rohit Kumar
-Final-year Data Science & AI student, IIT Madras
-Project: autolysis
+# 👨‍💻 Author
+# Rohit Kumar
+# Final-year Data Science & AI student, IIT Madras
+# Project: autolysis
 
 
 
